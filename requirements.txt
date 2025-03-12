@@ -1,0 +1,9 @@
+numpy
+langchain
+langchain-community
+faiss-cpu
+python-dotenv
+google-generativeai
+PyPDF2
+streamlit
+-e . 
